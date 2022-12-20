@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args) {
-    int numeric[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-    String alphabetic[] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+    int[] numeric = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    String[] alphabetic = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
     boolean play = true;
     String ongeldig = "Ongeldige invoer";
